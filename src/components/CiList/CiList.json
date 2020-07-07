@@ -1,0 +1,96 @@
+{
+  "msg": "ok",
+  "status": 0,
+  "data": {
+    "cinemas": {
+      "list": [
+        {
+          "id": 17158,
+          "mark": 0,
+          "rm": "JIA（喜莱影城九亭店）",
+          "sellPrice": "18",
+          "addr": "松江区地铁九号线九亭站地铁二号口内（地下一层）",
+          "distance": "1071km",
+          "tag":{
+              "allowRefund": 1,
+              "buyout": 0,
+              "cityCardTag": 0,
+              "deal": 0,
+              "endorse": 1,
+              "hallTypeVOList": [],
+              "sell": true,
+              "snack": 1,
+              "vipDesc": "折扣卡"
+          },
+          "promotion": {
+              "cardPromotionTag": "开卡优惠,首单2张立减10元f"
+          }
+        },
+        {
+          "id": 17228,
+          "mark": 0,
+          "rm": "JIA（喜莱影城九亭店）",
+          "sellPrice": "18",
+          "addr": "松江区地铁九号线九亭站地铁二号口内（地下一层）",
+          "distance": "1071km",
+          "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallTypeVOList": [],
+            "sell": true,
+            "snack": 1,
+            "vipDesc": "折扣卡"
+          },
+          "promotion": {
+            "cardPromotionTag": "开卡优惠,首单2张立减10元f"
+          }
+        }, {
+          "id": 17153,
+          "mark": 0,
+          "rm": "JIA（喜莱影城九亭店）",
+          "sellPrice": "18",
+          "addr": "松江区地铁九号线九亭站地铁二号口内（地下一层）",
+          "distance": "1071km",
+          "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallTypeVOList": [],
+            "sell": true,
+            "snack": 1,
+            "vipDesc": "折扣卡"
+          },
+          "promotion": {
+            "cardPromotionTag": "开卡优惠,首单2张立减10元f"
+          }
+        }, {
+          "id": 17348,
+          "mark": 0,
+          "rm": "JIA（喜莱影城九亭店）",
+          "sellPrice": "18",
+          "addr": "松江区地铁九号线九亭站地铁二号口内（地下一层）",
+          "distance": "1071km",
+          "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "hallTypeVOList": [],
+            "sell": true,
+            "snack": 1,
+            "vipDesc": "折扣卡"
+          },
+          "promotion": {
+            "cardPromotionTag": "开卡优惠,首单2张立减10元f"
+          }
+        }
+      ]
+    }
+  }
+}
