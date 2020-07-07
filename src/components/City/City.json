@@ -1,0 +1,68 @@
+{
+  "msg" : "ok",
+  "status" : 0,
+  "data" : {
+    "cities" : [
+      {
+        "id" : 1,
+        "nm" : "北京",
+        "isHot" : 1,
+        "py" : "beijing"
+      },
+      {
+        "id" : 2,
+        "nm" : "广州",
+        "isHot" : 1,
+        "py" : "guangzhou"
+      },
+      {
+        "id" : 3,
+        "nm" : "大连",
+        "isHot" : 1,
+        "py" : "dalian"
+      },
+      {
+        "id" : 4,
+        "nm" : "上海",
+        "isHot" : 1,
+        "py" : "shanghai"
+      },
+      {
+        "id" : 5,
+        "nm" : "深圳",
+        "isHot" : 1,
+        "py" : "shenzhen"
+      },
+      {
+        "id": 6,
+        "nm": "阿拉善盟",
+        "isHot": 1,
+        "py": "alashanmeng"
+      },
+      {
+        "id": 7,
+        "nm": "保定",
+        "isHot": 0,
+        "py": "baoding"
+      },
+      {
+        "id": 8,
+        "nm": "重庆",
+        "isHot": 0,
+        "py": "chongqing"
+      },
+      {
+        "id": 9,
+        "nm": "福州",
+        "isHot": 0,
+        "py": "fuzhou"
+      },
+      {
+        "id": 10,
+        "nm": "昆明",
+        "isHot": 0,
+        "py": "kunming"
+      }
+    ]
+  }
+}
