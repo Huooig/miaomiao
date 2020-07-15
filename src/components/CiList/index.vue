@@ -19,7 +19,7 @@
         </li> -->
         <li v-for="item in cinemaList" :key="item.id">
           <div>
-            <span>大地影院(澳东世纪店)</span>
+            <span>{{ item.nm }}</span>
             <span class="q"><span class="price">{{ item.sellPrice }}</span> 元起</span>
           </div>
           <div class="address">
@@ -52,7 +52,9 @@ export default {
     this.isLoading = true;
 
     this.axios.get('/api/cinemaList?cityId='+ cityId).then((res)=>{
+        
         var msg = res.data.msg;
+
         if(msg === 'ok'){
             this.cinemaList = res.data.data.cinemas;
             this.isLoading = false;

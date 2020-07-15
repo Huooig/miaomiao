@@ -1,0 +1,46 @@
+{
+  "msg": "ok",
+  "status": 0,
+  "data": {
+    "detailMovie": {
+          "nm": "唐人街神探3",
+          "albumImg": "https://p0.meituan.net/170.230/movie/120f2e1e6b0a67449e31107a598c5c911203737.jpg",
+          "availableEpisodes": 0,
+          "avardUrl" : "",
+          "bingeWatch": 128925,
+          "bingeWatchst" : 0,
+          "cat": "喜剧，动作，冒险",
+          "comScorePersona" : true,
+          "commented" : false,
+          "dir": "大卫·雷奇",
+          "distributions" : [
+            {
+                "movieScoreLevel" : "9-10分",
+                "proportion" : "52.22"
+            },
+            {
+                "movieScoreLevel" : "5-8分",
+                "proportion" : "30.06"
+            },
+            {
+                "movieScoreLevel" : "1-4分",
+                "proportion" : "17.72"
+            }
+          ],
+          "dra" : "漫威史上最贱的雇佣兵死侍再度归来！！！",
+          "dur": 119,
+          "egg" : true,
+          "enm": "Once upon a Deadpool",
+          "episodeDur" : 0,
+          "episodes" : 0,
+          "fra": "美国",
+          "frt": "2018-05-18",
+          "photos":[
+              "https://p0.meituan.net/170.230/movie/120f2e1e6b0a67449e31107a598c5c911203737.jpg",
+              "https://p0.meituan.net/170.230/movie/120f2e1e6b0a67449e31107a598c5c911203737.jpg",
+              "https://p0.meituan.net/170.230/movie/120f2e1e6b0a67449e31107a598c5c911203737.jpg",
+              "https://p0.meituan.net/170.230/movie/120f2e1e6b0a67449e31107a598c5c911203737.jpg"
+          ]
+    }
+  }
+}
